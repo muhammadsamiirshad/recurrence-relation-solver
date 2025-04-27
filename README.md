@@ -1,6 +1,6 @@
 # Recurrence Relation Solver
 
-![License](https://img.shields.io/github/license/muhammadsamiirshad/DAA-CCP)
+![License](https://img.shields.io/github/license/muhammadsamiirshad/recurrence-relation-solver)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 
 A comprehensive tool for solving and analyzing recurrence relations in algorithmic complexity analysis. This solver is part of the Data Algorithms & Analysis (DAA) course assignment.
@@ -26,8 +26,8 @@ A comprehensive tool for solving and analyzing recurrence relations in algorithm
 
 ```bash
 # Clone the repository
-git clone https://github.com/muhammadsamiirshad/DAA-CCP.git
-cd DAA-CCP
+git clone https://github.com/muhammadsamiirshad/recurrence-relation-solver.git
+cd recurrence-relation-solver
 
 # Install dependencies
 pip install matplotlib numpy sympy
