@@ -1,5 +1,7 @@
 # Recurrence Relation Solver
 
+> Complex Computing Problem (CCP) - Recurrence relation solver using multiple solution methods for analyzing algorithmic complexity for Design & Analysis of Algorithms (DAA) subject
+
 ![License](https://img.shields.io/github/license/muhammadsamiirshad/recurrence-relation-solver)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 
